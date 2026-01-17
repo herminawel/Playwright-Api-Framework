@@ -1,0 +1,4 @@
+export const ENV = {
+  Base_URL: 'https://jsonplaceholder.typicode.com/',
+  TIMEOUT: 10000,
+};
