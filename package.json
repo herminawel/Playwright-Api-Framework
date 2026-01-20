@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
-    "ajv": "^8.12.0"
+    "ajv": "^8.17.1"
   },
   "description": "Professional Playwright API automation framework.",
   "main": "index.js",
@@ -20,4 +20,3 @@
   "license": "ISC",
   "type": "commonjs"
 }
-
